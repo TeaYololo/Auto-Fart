@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: AutoFart
+## Notes: Automatically /farts when another player walks past you.
+## IconTexture: Interface\AddOns\AutoFart\icon
+## Author: Yololo
+## Version: 1.0.0
+## SavedVariables: AutoFartDB
+
+AutoFart.lua
